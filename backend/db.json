@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "autoria": "Mário",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Vitae tortor condimentum lacinia quis. (Editado)",
+      "autoria": "Mário",
+      "modelo": "modelo1"
+    }
+  ]
+}
